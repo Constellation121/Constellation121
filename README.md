@@ -1,109 +1,120 @@
 <div align="center">
 
-# ⚔️ THE DEVELOPER'S GUILD ⚔️
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=⚔%20DIEGO%20FERNANDO%20⚔&fontSize=45&fontColor=F8E16C&color=0:2E0249,50:570A57,100:A91079&animation=twinkling"/>
 
-### *"Forging worlds, one line of code at a time."*
-
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=28&duration=3500&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=MMORPG+Developer;Aion+Private+Server+Developer;C%2B%2B+%7C+SQL+Server+%7C+Node.js;Building+Fantasy+Worlds" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=2500&pause=800&color=F7D716&center=true&vCenter=true&width=900&lines=Loading+Kingdom...;Summoning+Dragon...;Equipping+Legendary+Sword...;Drinking+Health+Potion...;Launching+Aion+Server..."/>
 
 </div>
 
 ---
 
-# 🧙 Character Sheet
+# 🏰 CHARACTER
 
 ```yaml
-Name: Diego Fernando
+Name: Odin
 Class: MMORPG Developer
-Guild: Private Server Development
+Race: Human
 Level: 99
-Specialization:
-  - Aion
-  - C++
-  - SQL Server
-  - Node.js
-Alignment: Lawful Developer
-Main Quest: Build immersive online worlds
+Guild: RPG Developers
+HP: ██████████ 100%
+MP: ██████████ 100%
+XP: █████████░ 98%
 ```
 
 ---
 
-# ⚔️ Skills
+# ⚔ EQUIPMENT
 
-| Skill | Level |
-|--------|:-----:|
-| ⚔️ C++ | ██████████ 100% |
-| 🗄 SQL Server | █████████░ 95% |
-| 🌐 Node.js | █████████░ 90% |
-| 🎮 Aion Development | ██████████ 100% |
-| 🚀 Launcher Development | ████████░░ 85% |
-| 🎨 Web Development | ████████░░ 85% |
+🗡 Legendary Sword
 
----
+🛡 Dragon Shield
 
-# 🏰 Current Quests
+🏹 Ancient Bow
 
-## 📜 2026
+💎 Mythic Armor
 
-🛡 Aion 5.8 Private Server
+🧪 Health Potion
 
-⚔ Advanced Anti-Cheat System
+🔥 Fire Scroll
 
-🖥 Custom Game Launcher
-
-🌎 MMORPG Web Platform
+🐉 Dragon Egg
 
 ---
 
-## 📜 2025
+# 🎒 INVENTORY
 
-🏪 Online Shop
-
-🔐 Login Server
-
-🌐 MMORPG Website
+| Item | Status |
+|------|--------|
+| 🗡 Sword | Equipped |
+| 🛡 Shield | Equipped |
+| 🧪 Potion | x99 |
+| 💎 Crystal | x25 |
+| 🔥 Fire Rune | x17 |
+| 🐉 Dragon Egg | Rare |
 
 ---
 
-# 🧰 Inventory
+# 🧙 SKILLS
 
-<p>
+⚔ C++ ██████████
 
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+🐉 RPG ██████████
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+🌐 Node.js █████████
 
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+🗄 SQL Server █████████
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+🎨 Web ████████
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+---
 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+# 🏹 ACTIVE QUESTS
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+✔ Build MMORPG Servers
+
+✔ Develop Launchers
+
+✔ Create Anti Cheat
+
+✔ MMORPG Website
+
+✔ Online Shop
+
+---
+
+# 🧰 MAGIC BOOK
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus"/>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
+
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript"/>
 
 </p>
 
 ---
 
-# 📊 Adventure Progress
+# 📈 ADVENTURE LOG
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical"/>
 
 </p>
 
 ---
 
-# 🔥 Battle History
+# 🔥 COMBO
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical"/>
 
 </p>
 
@@ -111,10 +122,8 @@ Main Quest: Build immersive online worlds
 
 <div align="center">
 
-## ⚜ Motto
+# ⚔ QUEST COMPLETE ⚔
 
-### *"Every legendary world begins with a single line of code."*
-
-⭐ Thanks for visiting my realm.
+*"Every legendary MMORPG begins with a single line of code."*
 
 </div>
