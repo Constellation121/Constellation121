@@ -8,7 +8,7 @@
 
 ---
 
-# 🏰 CHARACTER
+# CHARACTER
 
 ```yaml
 Name: Odin
@@ -23,7 +23,7 @@ XP: █████████░ 98%
 
 ---
 
-# ⚔ EQUIPMENT
+# EQUIPMENT
 
 🗡 Legendary Sword
 
@@ -41,7 +41,7 @@ XP: █████████░ 98%
 
 ---
 
-# 🎒 INVENTORY
+# INVENTORY
 
 | Item | Status |
 |------|--------|
@@ -54,7 +54,7 @@ XP: █████████░ 98%
 
 ---
 
-# 🧙 SKILLS
+# SKILLS
 
 ⚔ C++ ██████████
 
@@ -82,7 +82,7 @@ XP: █████████░ 98%
 
 ---
 
-# 🧰 MAGIC BOOK
+# MAGIC BOOK
 
 <p align="center">
 
@@ -99,7 +99,7 @@ XP: █████████░ 98%
 
 ---
 
-# 🔥 COMBO
+# COMBO
 
 <p align="center">
 
@@ -111,7 +111,7 @@ XP: █████████░ 98%
 
 <div align="center">
 
-# ⚔ QUEST COMPLETE ⚔
+#  QUEST COMPLETE 
 
 *"Every legendary MMORPG begins with a single line of code."*
 
