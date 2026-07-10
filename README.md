@@ -25,13 +25,13 @@ XP: █████████░ 98%
 
 # 𝔼ℚ𝕌𝕀ℙ𝕄𝔼ℕ𝕋
 
-🗡 Legendary Sword
+🗡 𝙇𝙚𝙜𝙚𝙣𝙙𝙖𝙧𝙮 𝙎𝙬𝙤𝙧𝙙 + 15
 
-🛡 Dragon Shield
+🛡 𝘿𝙧𝙖𝙜𝙤𝙣 𝙎𝙝𝙞𝙚𝙡𝙙 +15
 
-🏹 Ancient Bow
+🏹 𝘼𝙣𝙘𝙞𝙚𝙣𝙩 𝘽𝙤𝙬 +15
 
-💎 Mythic Armor
+💎 𝙈𝙮𝙩𝙝𝙞𝙘 𝘼𝙧𝙢𝙤𝙧 +15
 
 🧪 Health Potion
 
