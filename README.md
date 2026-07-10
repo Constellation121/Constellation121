@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=⚔%20Odin%20⚔&fontSize=45&fontColor=F8E16C&color=0:2E0249,50:570A57,100:A91079&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=⚔%20𝕺𝖉𝖎𝖓%20⚔&fontSize=45&fontColor=F8E16C&color=0:2E0249,50:570A57,100:A91079&animation=twinkling"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=2500&pause=800&color=F7D716&center=true&vCenter=true&width=900&lines=Loading+Kingdom...;Summoning+Dragon...;Equipping+Legendary+Sword...;Drinking+Health+Potion..."/>
 
@@ -8,7 +8,7 @@
 
 ---
 
-# CHARACTER
+# ℂℍ𝔸ℝ𝔸ℂ𝕋𝔼ℝ
 
 ```yaml
 Name: Odin
@@ -23,7 +23,7 @@ XP: █████████░ 98%
 
 ---
 
-# EQUIPMENT
+# 𝔼ℚ𝕌𝕀ℙ𝕄𝔼ℕ𝕋
 
 🗡 Legendary Sword
 
@@ -41,7 +41,7 @@ XP: █████████░ 98%
 
 ---
 
-# INVENTORY
+# 𝕀ℕ𝕍𝔼ℕ𝕋𝕆ℝ𝕐
 
 | Item | Status |
 |------|--------|
@@ -54,7 +54,7 @@ XP: █████████░ 98%
 
 ---
 
-# SKILLS
+# 𝕊𝕂𝕀𝕃𝕃𝕊
 
 ⚔ C++ ██████████
 
@@ -68,7 +68,7 @@ XP: █████████░ 98%
 
 ---
 
-# 🏹 ACTIVE QUESTS
+# 🏹 𝔸ℂ𝕋𝕀𝕍𝔼 ℚ𝕌𝔼𝕊𝕋𝕊
 
 ✔ Build MMORPG Servers
 
@@ -82,7 +82,7 @@ XP: █████████░ 98%
 
 ---
 
-# MAGIC BOOK
+# 𝕄𝔸𝔾𝕀ℂ 𝔹𝕆𝕆𝕂
 
 <p align="center">
 
@@ -99,7 +99,7 @@ XP: █████████░ 98%
 
 ---
 
-# COMBO
+# ℂ𝕆𝕄𝔹𝕆
 
 <p align="center">
 
@@ -111,7 +111,7 @@ XP: █████████░ 98%
 
 <div align="center">
 
-#  QUEST COMPLETE 
+#  ℚ𝕌𝔼𝕊𝕋 ℂ𝕆𝕄ℙ𝕃𝔼𝕋𝔼
 
 *"Every legendary MMORPG begins with a single line of code."*
 
