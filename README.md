@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=⚔%20DIEGO%20FERNANDO%20⚔&fontSize=45&fontColor=F8E16C&color=0:2E0249,50:570A57,100:A91079&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=⚔%20Odin%20⚔&fontSize=45&fontColor=F8E16C&color=0:2E0249,50:570A57,100:A91079&animation=twinkling"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=2500&pause=800&color=F7D716&center=true&vCenter=true&width=900&lines=Loading+Kingdom...;Summoning+Dragon...;Equipping+Legendary+Sword...;Drinking+Health+Potion...;Launching+Aion+Server..."/>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=2500&pause=800&color=F7D716&center=true&vCenter=true&width=900&lines=Loading+Kingdom...;Summoning+Dragon...;Equipping+Legendary+Sword...;Drinking+Health+Potion..."/>
 
 </div>
 
