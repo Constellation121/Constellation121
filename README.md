@@ -103,7 +103,7 @@ XP: █████████░ 98%
 
 <p align="center">
 
-<img src="https://media1.tenor.com/m/Ceh-BVZ-31kAAAAC/tiamat-aion-tiamat.gif"/>
+<img src="https://media1.tenor.com/m/W19DQg34nKwAAAAC/aion-2---absolute-cinema.gif"/>
 
 </p>
 
