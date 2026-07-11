@@ -103,7 +103,7 @@ XP: █████████░ 98%
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical"/>
+<img src="https://media1.tenor.com/m/Ceh-BVZ-31kAAAAC/tiamat-aion-tiamat.gif"/>
 
 </p>
 
