@@ -100,7 +100,7 @@ Status
 ℂ𝕆𝕄𝔹𝕆
 <p align="center">
 
-<img src="https://media1.tenor.com/m/W19DQg34nKwAAAAC/aion-2---absolute-cinema.gif"/>
+<img src="https://64.media.tumblr.com/1a21efe494cc932cd243dced36b5a8f7/tumblr_okdx3bk8571rnax4fo1_r1_1280.gif"/>
 
 </p>
 
