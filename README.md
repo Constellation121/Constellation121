@@ -7,15 +7,17 @@
 </div>
 
 ℂℍ𝔸ℝ𝔸ℂ𝕋𝔼ℝ
-yaml
 Name: Odin
 Class: Game Developer
 Specialty: C++ ⚔ Node.js ⚔ SQL Server
 Race: Human
 Level: 99
 Guild: RPG Developers
+
 HP: ██████████ 100%
+
 MP: ██████████ 100%
+
 XP: █████████░ 98%
 🛠 𝕁𝕆𝔹 ℂ𝕃𝔸𝕊𝕊
 <div align="center">
