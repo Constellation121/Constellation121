@@ -6,25 +6,33 @@
 
 </div>
 
----
-
-# ℂℍ𝔸ℝ𝔸ℂ𝕋𝔼ℝ
-
-```yaml
+ℂℍ𝔸ℝ𝔸ℂ𝕋𝔼ℝ
+yaml
 Name: Odin
-Class: MMORPG Developer
+Class: Game Developer
+Specialty: C++ ⚔ Node.js ⚔ SQL Server
 Race: Human
 Level: 99
 Guild: RPG Developers
 HP: ██████████ 100%
 MP: ██████████ 100%
 XP: █████████░ 98%
-```
+🛠 𝕁𝕆𝔹 ℂ𝕃𝔸𝕊𝕊
+<div align="center">
 
----
+🎮 Game Developer
 
-# 𝔼ℚ𝕌𝕀ℙ𝕄𝔼ℕ𝕋
+💻 C++ Developer
 
+🟢 Node.js / Backend
+
+🗄️ SQL Server / Database
+
+⚙️ Desenvolvimento
+
+</div>
+
+𝔼ℚ𝕌𝕀ℙ𝕄𝔼ℕ𝕋
 🗡 𝙇𝙚𝙜𝙚𝙣𝙙𝙖𝙧𝙮 𝙎𝙬𝙤𝙧𝙙 + 15
 
 🛡 𝘿𝙧𝙖𝙜𝙤𝙣 𝙎𝙝𝙞𝙚𝙡𝙙 +15
@@ -39,23 +47,17 @@ XP: █████████░ 98%
 
 🐉 Dragon Egg
 
----
+𝕀ℕ𝕍𝔼ℕ𝕋𝕆ℝ𝕐
+Item
+Status
+🗡 Sword	Equipped
+🛡 Shield	Equipped
+🧪 Potion	x99
+💎 Crystal	x25
+🔥 Fire Rune	x17
+🐉 Dragon Egg	Rare
 
-# 𝕀ℕ𝕍𝔼ℕ𝕋𝕆ℝ𝕐
-
-| Item | Status |
-|------|--------|
-| 🗡 Sword | Equipped |
-| 🛡 Shield | Equipped |
-| 🧪 Potion | x99 |
-| 💎 Crystal | x25 |
-| 🔥 Fire Rune | x17 |
-| 🐉 Dragon Egg | Rare |
-
----
-
-# 𝕊𝕂𝕀𝕃𝕃𝕊
-
+𝕊𝕂𝕀𝕃𝕃𝕊
 ⚔ C++ ██████████
 
 🐉 RPG ██████████
@@ -66,10 +68,7 @@ XP: █████████░ 98%
 
 🎨 Web ████████
 
----
-
-# 🏹 𝔸ℂ𝕋𝕀𝕍𝔼 ℚ𝕌𝔼𝕊𝕋𝕊
-
+🏹 𝔸ℂ𝕋𝕀𝕍𝔼 ℚ𝕌𝔼𝕊𝕋𝕊
 ✔ Build MMORPG Servers
 
 ✔ Develop Launchers
@@ -80,11 +79,10 @@ XP: █████████░ 98%
 
 ✔ Online Shop
 
----
-
-# 𝕄𝔸𝔾𝕀ℂ 𝔹𝕆𝕆𝕂
-
+𝕄𝔸𝔾𝕀ℂ 𝔹𝕆𝕆𝕂
 <p align="center">
+
+<img src="https://img.shields.io/badge/🎮_Game_Developer-6C2BD9?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus"/>
 
@@ -97,22 +95,16 @@ XP: █████████░ 98%
 </p>
 
 
----
-
-# ℂ𝕆𝕄𝔹𝕆
-
+ℂ𝕆𝕄𝔹𝕆
 <p align="center">
 
 <img src="https://media1.tenor.com/m/W19DQg34nKwAAAAC/aion-2---absolute-cinema.gif"/>
 
 </p>
 
----
-
 <div align="center">
 
-#  ℚ𝕌𝔼𝕊𝕋 ℂ𝕆𝕄ℙ𝕃𝔼𝕋𝔼
-
-*"Every legendary MMORPG begins with a single line of code."*
+ℚ𝕌𝔼𝕊𝕋 ℂ𝕆𝕄ℙ𝕃𝔼𝕋𝔼
+"Every legendary MMORPG begins with a single line of code."
 
 </div>
